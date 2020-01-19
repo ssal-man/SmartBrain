@@ -1,12 +1,11 @@
 {
   "name": "facerecognitionbrainapi",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "",
+  "author": "salman",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.2"
@@ -18,5 +17,14 @@
     "express": "^4.17.1",
     "knex": "^0.20.8",
     "pg": "^7.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssal-man/SmartBrain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ssal-man/SmartBrain/issues"
+  },
+  "homepage": "https://github.com/ssal-man/SmartBrain#readme",
+  "description": ""
 }
